@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Skyvenia/.github/main/images/logo/logo_800x800_black.png" width="400" width="500" height="400" />
+  <img src="https://raw.githubusercontent.com/Skyvenia/.github/main/images/logo/logo_800x800_black.png" width="400" height="400" />
 </p>
 
 # Skyvenia
@@ -29,5 +29,5 @@ Skyvenia is a full-spectrum IT company, developing software tools, Web, AI solut
 - 🌐 Website: [skyvenia.com](https://skyvenia.com)
 - ✉ Email: [contact@skyvenia.com](contact@skyvenia.com)
 - 💬 Discord: Skyvenia#1234
-- <p>TEST</p>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" /> LinkedIn: [https://www.linkedin.com/company/skyvenia](https://www.linkedin.com/company/skyvenia)
 - 🐦 Twitter: [@Skyvenia](https://twitter.com/Skyvenia)
