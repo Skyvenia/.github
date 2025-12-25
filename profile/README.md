@@ -9,7 +9,7 @@ Innovating in Software, Web, AI, Games, and Digital Solutions
 <br />
 
 **Copyright &copy; 2025 Skyvenia. All Rights Reserved.**  
-**GitHub:** <u>[https://skyvenia.com](https://skyvenia.com)</u>  
+**Website:** <u>[https://skyvenia.com](https://skyvenia.com)</u>  
 **Email:** <u>[contact@skyvenia.com](mailto:contact@skyvenia.com)</u>
 
 <br />
@@ -28,5 +28,4 @@ Skyvenia is a full-spectrum IT company, developing software tools, Web, AI solut
 
 - 🌐 Website: [skyvenia.com](https://skyvenia.com)
 - ✉ Email: [contact@skyvenia.com](contact@skyvenia.com)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="20" height="20" /> Discord: Skyvenia#1234
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" /> LinkedIn: [https://www.linkedin.com/company/skyvenia](https://www.linkedin.com/company/skyvenia)
