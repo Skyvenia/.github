@@ -2,12 +2,6 @@
   <img src="https://raw.githubusercontent.com/Skyvenia/.github/main/images/logo/logo_800x800_black.png" width="400" height="400" />
 </p>
 
-# Мой заголовок
-
-|     |
-|:---:|
-| ![Skyvenia Logo](https://raw.githubusercontent.com/Skyvenia/.github/main/images/logo/logo_800x800_black.png) |
-
 # Skyvenia
 
 Innovating in Software, Web, AI, Games, and Digital Solutions
@@ -34,6 +28,5 @@ Skyvenia is a full-spectrum IT company, developing software tools, Web, AI solut
 
 - 🌐 Website: [skyvenia.com](https://skyvenia.com)
 - ✉ Email: [contact@skyvenia.com](contact@skyvenia.com)
-- 💬 Discord: Skyvenia#1234
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="20" height="20" /> Discord: Skyvenia#1234
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" /> LinkedIn: [https://www.linkedin.com/company/skyvenia](https://www.linkedin.com/company/skyvenia)
-- 🐦 Twitter: [@Skyvenia](https://twitter.com/Skyvenia)
