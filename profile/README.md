@@ -1,2 +1,5 @@
-<img src="/images/logo/logo_800x800_black.png" width="100" height="100" /> #Skyvenia
-<h4 style="margin-top: -13px;">Innovating in Games, Software, AI, and Digital Solutions</h4>
+![Skyvenia Logo](./images/logo/logo_800x800.png)
+
+#Skyvenia
+
+Innovating in Games, Software, AI, and Digital Solutions
