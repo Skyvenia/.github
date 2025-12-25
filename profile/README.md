@@ -29,5 +29,5 @@ Skyvenia is a full-spectrum IT company, developing software tools, Web, AI solut
 - 🌐 Website: [skyvenia.com](https://skyvenia.com)
 - ✉ Email: [contact@skyvenia.com](contact@skyvenia.com)
 - 💬 Discord: Skyvenia#1234
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="21.33" height="21.33" /> LinkedIn: [https://www.linkedin.com/company/skyvenia](https://www.linkedin.com/company/skyvenia)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="26.656" height="26.656" /> LinkedIn: [https://www.linkedin.com/company/skyvenia](https://www.linkedin.com/company/skyvenia)
 - 🐦 Twitter: [@Skyvenia](https://twitter.com/Skyvenia)
