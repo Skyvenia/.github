@@ -1,4 +1,4 @@
-![Skyvenia Logo](/images/logo/logo_800x800.png)
+![Skyvenia Logo](../images/logo/logo_800x800.png)
 
 # Skyvenia
 
