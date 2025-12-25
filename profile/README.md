@@ -19,3 +19,14 @@ Innovating in Software, Web, AI, Games, and Digital Solutions
 ## Description
 
 Skyvenia is a full-spectrum IT company, developing software tools, Web, AI solutions, games, and digital products for businesses and creators worldwide.
+
+<br />
+<br />
+<br />
+
+## Contact Us
+
+- 🌐 Website: [skyvenia.com](https://skyvenia.com)
+- ✉ Email: [skyvenia.it@gmail.com](mailto:skyvenia.it@gmail.com)
+- 💬 Discord: Skyvenia#1234
+- 🐦 Twitter: [@Skyvenia](https://twitter.com/Skyvenia)
